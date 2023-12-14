@@ -1,0 +1,27 @@
+{
+   "type":"record",
+   "name":"Pojo",
+   "namespace":"com.xx.test",
+   "fields":[
+      {
+         "name": "id",
+         "type": "int"
+      },
+      {
+         "name": "firstName",
+         "type": "string"
+      },
+      {
+         "name": "lastName",
+         "type": "string"
+      },
+      {
+         "name": "active",
+         "type": "boolean"
+      },
+      {
+         "name": "hireDate",
+         "type": "date"
+      }
+   ]
+}
